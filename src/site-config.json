@@ -1,0 +1,595 @@
+{
+  "business": {
+    "name": "A.D Painting & Remodeling",
+    "phone": "+14014971369",
+    "category": "painting contractor",
+    "city": "Houston",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Houston's Trusted Painting & Remodeling",
+      "heroSubline": "Transforming homes across Houston. Quality craftsmanship and lasting results you can depend on.",
+      "aboutTitle": "Craftsmanship Rooted in Houston",
+      "aboutText": [
+        "A.D Painting & Remodeling began over a decade ago with a simple mission: to provide Houston homeowners with honest, reliable painting and remodeling services. We're not just contractors; we're your neighbors, committed to improving our community one project at a time.",
+        "We approach every project with meticulous attention to detail and a commitment to using only the highest quality materials. From selecting the perfect paint colors to ensuring precise execution, we're dedicated to exceeding your expectations.",
+        "We understand the unique challenges Houston homes face, from humidity to hurricane season. That's why we tailor our services to withstand the elements and provide lasting value. We're proud to be a part of the Houston community and committed to giving back."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled painters and remodelers dedicated to quality and precision."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "Using premium paints and materials designed for Houston's climate."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "Keeping you informed throughout the entire project."
+        },
+        {
+          "title": "On-Time & On-Budget",
+          "description": "Respecting your time and investment with reliable service."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Get a free quote today and experience the A.D Painting & Remodeling difference."
+    },
+    "services": [
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Transform your living spaces with our professional interior painting services.",
+        "description": "Houston's humidity and temperature fluctuations can wreak havoc on interior paint. We provide comprehensive interior painting services, starting with thorough surface preparation. We fill cracks, repair drywall, and prime surfaces to ensure a smooth, long-lasting finish. We use only premium-grade paints formulated to resist mildew and fading, crucial in Houston's humid climate. Our team provides meticulous attention to detail, from protecting your furniture to applying multiple coats for optimal coverage. Whether you're refreshing a single room or repainting your entire home, we deliver exceptional results that enhance your living space and increase your property value.\n\nWe're experienced with the diverse architectural styles found throughout Houston, from the older homes in The Heights to the modern condos downtown. We understand the importance of selecting the right colors and finishes to complement your home's unique character. Our team can provide expert color consultations to help you achieve your desired aesthetic.",
+        "process": [
+          "Step 1: Consultation and Color Selection",
+          "Step 2: Surface Preparation (cleaning, patching, priming)",
+          "Step 3: Careful Protection of Furniture and Fixtures",
+          "Step 4: Application of Premium-Grade Paint (two coats minimum)",
+          "Step 5: Thorough Clean-Up and Inspection"
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Increased Property Value",
+          "Improved Air Quality",
+          "Protection Against Moisture Damage"
+        ],
+        "faq": [
+          {
+            "question": "How long will the interior painting project take?",
+            "answer": "The duration depends on the size and complexity of the project, but we'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move my furniture?",
+            "answer": "We can help move furniture, but we appreciate it if you remove smaller items beforehand. We will cover and protect all furniture remaining in the room."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use only premium-grade, low-VOC paints that are durable and environmentally friendly, specifically chosen for Houston's climate."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home with our expert exterior painting services.",
+        "description": "Houston's harsh weather conditions demand a robust exterior paint job. We specialize in providing durable and aesthetically pleasing exterior painting services that protect your home from the elements. Our process begins with a thorough power washing to remove dirt, mildew, and loose paint. We then scrape, sand, and prime surfaces to create a smooth and even base for the new paint. We use high-quality, weather-resistant paints specifically formulated to withstand Houston's intense sun, humidity, and occasional hurricanes. Our experienced painters apply multiple coats for maximum protection and a flawless finish. \n\nWe understand the unique challenges of painting different exterior materials, from brick and stucco to siding and wood. Whether you own a classic ranch-style home in Meyerland or a modern townhome in Midtown, we have the expertise to deliver exceptional results. We also handle repairs to siding, trim, and other exterior features to ensure a complete and lasting transformation.",
+        "process": [
+          "Step 1: Power Washing and Surface Cleaning",
+          "Step 2: Scraping, Sanding, and Priming",
+          "Step 3: Minor Repairs to Siding and Trim",
+          "Step 4: Application of Weather-Resistant Paint",
+          "Step 5: Final Inspection and Clean-Up"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Protection from the Elements",
+          "Increased Property Value",
+          "Prevention of Wood Rot"
+        ],
+        "faq": [
+          {
+            "question": "How often should I repaint my home's exterior in Houston?",
+            "answer": "Typically, exterior paint in Houston lasts 5-7 years, depending on the quality of the paint and the exposure to the elements. We can assess your home's specific needs during a free consultation."
+          },
+          {
+            "question": "What type of paint is best for Houston's climate?",
+            "answer": "We recommend using acrylic latex paints with a mildew-resistant additive. These paints are durable, breathable, and resistant to fading and cracking."
+          },
+          {
+            "question": "Do you offer color consultations for exterior painting?",
+            "answer": "Yes, we offer expert color consultations to help you choose the perfect colors to complement your home's architecture and landscaping."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Restore your walls with our professional drywall repair services.",
+        "description": "From minor dents and dings to significant water damage, we provide comprehensive drywall repair services to restore your walls to their original condition. We begin by carefully assessing the damage and determining the best course of action. For small holes and cracks, we use patching compounds and sanding techniques to create a seamless repair. For larger areas of damage, we replace the damaged drywall and tape and mud the seams for a smooth finish.\n\nWe understand the importance of matching the existing texture of your walls. Whether you have a smooth, textured, or orange peel finish, we have the skills and experience to replicate it perfectly. Our goal is to provide a flawless repair that is virtually invisible. Our drywall repair services are essential for preparing your walls for painting or wallpapering. We ensure a smooth and even surface for optimal results. We handle everything from nail holes and cracks to water damage and impact damage.",
+        "process": [
+          "Step 1: Damage Assessment",
+          "Step 2: Patching or Replacement of Damaged Drywall",
+          "Step 3: Taping and Mudding of Seams",
+          "Step 4: Sanding and Texturing",
+          "Step 5: Priming and Painting (optional)"
+        ],
+        "benefits": [
+          "Restored Wall Integrity",
+          "Improved Aesthetics",
+          "Preparation for Painting",
+          "Prevention of Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "How much does drywall repair cost?",
+            "answer": "The cost of drywall repair depends on the size and severity of the damage. We offer free estimates to assess your specific needs."
+          },
+          {
+            "question": "Can you match the texture of my walls?",
+            "answer": "Yes, we are skilled at matching a variety of wall textures, including smooth, textured, and orange peel."
+          },
+          {
+            "question": "Do you offer painting services after drywall repair?",
+            "answer": "Yes, we offer complete painting services to ensure a seamless finish after drywall repair."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-refinishing",
+        "name": "Cabinet Refinishing",
+        "shortDescription": "Update your kitchen or bathroom with our cabinet refinishing services.",
+        "description": "Give your kitchen or bathroom a fresh new look without the expense of replacing your cabinets. Our cabinet refinishing services can transform your outdated or worn cabinets into a stylish focal point. We begin by thoroughly cleaning and degreasing your cabinets to remove any dirt, grime, and grease. We then sand the surfaces to create a smooth base for the new finish.\n\nWe offer a variety of refinishing options, including painting, staining, and glazing. Whether you prefer a classic white finish or a more modern color, we can help you achieve your desired aesthetic. We use high-quality paints and stains that are durable and easy to clean. After refinishing, we apply a protective topcoat to ensure long-lasting beauty and durability. Our cabinet refinishing services are a cost-effective way to update your kitchen or bathroom and increase your home's value. We handle everything from removing hardware to applying the final coat of finish.",
+        "process": [
+          "Step 1: Thorough Cleaning and Degreasing",
+          "Step 2: Sanding and Surface Preparation",
+          "Step 3: Application of Paint or Stain",
+          "Step 4: Protective Topcoat Application",
+          "Step 5: Reinstallation of Hardware"
+        ],
+        "benefits": [
+          "Cost-Effective Update",
+          "Enhanced Aesthetics",
+          "Increased Home Value",
+          "Extended Cabinet Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How long does cabinet refinishing take?",
+            "answer": "The duration of cabinet refinishing depends on the size and complexity of the project, but we typically complete most projects within 3-5 days."
+          },
+          {
+            "question": "Do I need to empty my cabinets?",
+            "answer": "Yes, we ask that you remove all items from your cabinets before we begin the refinishing process."
+          },
+          {
+            "question": "What type of finish is most durable for kitchen cabinets?",
+            "answer": "We recommend using a catalyzed lacquer or polyurethane finish for maximum durability and resistance to moisture and stains."
+          }
+        ]
+      },
+      {
+        "slug": "popcorn-ceiling-removal",
+        "name": "Popcorn Ceiling Removal",
+        "shortDescription": "Remove outdated popcorn ceilings and modernize your home.",
+        "description": "Popcorn ceilings were a popular trend in the 1970s and 1980s, but today they are often considered outdated and can even contain asbestos. We provide safe and efficient popcorn ceiling removal services to modernize your home and improve its value. We begin by testing the ceiling for asbestos. If asbestos is present, we follow strict safety protocols to ensure its safe removal. If the ceiling is asbestos-free, we proceed with the removal process. We carefully wet the ceiling to loosen the popcorn texture and then scrape it away. We then repair any damage to the drywall and apply a smooth finish.\n\nOur popcorn ceiling removal services can transform your home and create a more modern and inviting space. We handle everything from protecting your furniture to disposing of the popcorn ceiling material. We understand the importance of minimizing dust and disruption during the removal process. Our team works quickly and efficiently to complete the project with minimal inconvenience to you.",
+        "process": [
+          "Step 1: Asbestos Testing (if necessary)",
+          "Step 2: Protection of Furniture and Fixtures",
+          "Step 3: Wetting and Scraping of Popcorn Texture",
+          "Step 4: Drywall Repair and Smoothing",
+          "Step 5: Priming and Painting (optional)"
+        ],
+        "benefits": [
+          "Modernized Home",
+          "Increased Home Value",
+          "Improved Air Quality",
+          "Elimination of Asbestos Risk (if present)"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if my popcorn ceiling contains asbestos?",
+            "answer": "The only way to know for sure is to have the ceiling tested by a certified asbestos inspector. We can arrange for asbestos testing as part of our service."
+          },
+          {
+            "question": "Is popcorn ceiling removal messy?",
+            "answer": "Yes, popcorn ceiling removal can be messy, but we take precautions to minimize dust and disruption. We cover your furniture and floors with plastic sheeting and use HEPA filters to capture dust particles."
+          },
+          {
+            "question": "How long does popcorn ceiling removal take?",
+            "answer": "The duration of popcorn ceiling removal depends on the size of the room, but we typically complete most projects within 1-3 days."
+          }
+        ]
+      },
+      {
+        "slug": "remodeling-services",
+        "name": "Full Home Remodeling",
+        "shortDescription": "Transform your entire home with our comprehensive remodeling solutions.",
+        "description": "Dreaming of a completely transformed living space? A.D Painting & Remodeling offers full home remodeling services tailored to your vision and lifestyle. We handle every aspect of the project, from initial design and planning to final construction and finishing touches. Whether you're looking to update your kitchen, remodel your bathroom, or renovate your entire home, we have the expertise and experience to bring your dreams to life. We understand the unique challenges of remodeling older Houston homes, from dealing with outdated plumbing and electrical systems to preserving the original character of the building.\n\nOur team works closely with you throughout the entire process to ensure that your vision is realized. We provide detailed project plans, transparent pricing, and regular communication to keep you informed every step of the way. We use only the highest quality materials and skilled craftsmen to ensure exceptional results that will last for years to come. We manage all aspects of the remodeling project, including demolition, construction, plumbing, electrical, painting, and finishing. No matter if you are in the Museum District or out in Katy, we will help make your home remodel a dream come true.",
+        "process": [
+          "Step 1: Initial Consultation and Design Planning",
+          "Step 2: Detailed Project Proposal and Budget",
+          "Step 3: Demolition and Construction",
+          "Step 4: Plumbing, Electrical, and HVAC Installation",
+          "Step 5: Painting, Flooring, and Finishing Touches"
+        ],
+        "benefits": [
+          "Customized Living Space",
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How much does a full home remodel cost?",
+            "answer": "The cost of a full home remodel depends on the scope of the project, the materials used, and the complexity of the design. We provide free estimates to assess your specific needs."
+          },
+          {
+            "question": "How long does a full home remodel take?",
+            "answer": "The duration of a full home remodel varies depending on the size and complexity of the project. We will provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "Whether or not you need to move out during the remodel depends on the scope of the project and your personal preferences. We can discuss this in more detail during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-painting",
+        "name": "Commercial Painting",
+        "shortDescription": "Enhance your business space with our professional commercial painting services.",
+        "description": "A fresh coat of paint can significantly impact the appearance and atmosphere of your commercial space. We offer comprehensive commercial painting services tailored to meet the unique needs of businesses in Houston. Whether you're looking to refresh your office, retail store, or industrial facility, we have the expertise and resources to deliver exceptional results. We understand the importance of minimizing disruption to your business operations. That's why we offer flexible scheduling options and work efficiently to complete the project on time and within budget.\n\nWe use durable, commercial-grade paints that are designed to withstand heavy traffic and wear and tear. Our experienced painters are skilled in applying a variety of finishes, including epoxy coatings, anti-slip coatings, and dry-erase paints. We also offer color consultations to help you choose the perfect colors to create the desired atmosphere for your business. We handle everything from surface preparation to final clean-up, ensuring a professional and hassle-free experience. We service a host of commercial clients, including many in the Energy Corridor and Galleria areas.",
+        "process": [
+          "Step 1: Site Assessment and Color Consultation",
+          "Step 2: Surface Preparation (cleaning, patching, priming)",
+          "Step 3: Protection of Equipment and Fixtures",
+          "Step 4: Application of Commercial-Grade Paint",
+          "Step 5: Final Inspection and Clean-Up"
+        ],
+        "benefits": [
+          "Enhanced Business Image",
+          "Improved Employee Morale",
+          "Increased Property Value",
+          "Protection Against Wear and Tear"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer after-hours painting services?",
+            "answer": "Yes, we offer after-hours and weekend painting services to minimize disruption to your business operations."
+          },
+          {
+            "question": "What type of paint is best for commercial spaces?",
+            "answer": "We recommend using durable, commercial-grade paints that are resistant to scuffs, stains, and fading."
+          },
+          {
+            "question": "Do you offer color consultations for commercial painting projects?",
+            "answer": "Yes, we offer expert color consultations to help you choose the perfect colors to create the desired atmosphere for your business."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Sugar Land",
+        "slug": "sugar-land-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling is proud to offer our expert painting and remodeling services to the residents of Sugar Land, Texas. Known for its meticulously planned communities that began taking shape in the 1990s and continued through the 2000s, Sugar Land boasts a distinct architectural style that demands a keen eye for detail. We understand the nuances of painting homes in these master-planned communities, ensuring a flawless finish that complements the existing aesthetic.\n\nOur team is experienced in handling the challenges posed by Sugar Land's hot and humid summers. We use only high-quality paints and materials specifically designed to withstand the Texas climate, preventing premature cracking, peeling, and fading. Whether you need interior painting, exterior painting, or comprehensive remodeling services, A.D Painting & Remodeling is your trusted partner in Sugar Land.",
+        "localContext": "Sugar Land's master-planned communities, developed primarily in the 1990s and 2000s, require painting expertise that understands the community's specific architectural styles and aesthetic standards. A.D Painting & Remodeling is well-versed in these requirements.",
+        "nearbyAreas": [
+          "Missouri City",
+          "Stafford",
+          "Richmond"
+        ]
+      },
+      {
+        "city": "Katy",
+        "slug": "katy-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling provides exceptional painting and remodeling services to homeowners in Katy, Texas. Characterized by its more recent planned communities developed from the 2000s to the 2020s, Katy presents a blend of modern architectural designs and family-friendly neighborhoods. We are committed to providing top-notch craftsmanship to enhance and protect your Katy home.\n\nWe recognize the impact of the intense Texas heat and humidity on exterior paint. That's why we utilize premium, weather-resistant paints and proven techniques to ensure lasting beauty and durability for your home. From color consultations to meticulous surface preparation, A.D Painting & Remodeling is dedicated to delivering outstanding results that exceed your expectations in Katy.",
+        "localContext": "Katy's newer planned communities, built from the 2000s to the 2020s, feature modern home designs, and A.D Painting & Remodeling understands the specific painting requirements of these contemporary structures.",
+        "nearbyAreas": [
+          "Brookshire",
+          "Fulshear",
+          "Cypress"
+        ]
+      },
+      {
+        "city": "The Woodlands",
+        "slug": "the-woodlands-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling is your go-to painting and remodeling expert in The Woodlands, Texas. This master-planned community, known for its mature trees and diverse housing styles developed from the 1980s to the present, requires a painting contractor with a keen understanding of its unique architectural landscape. We're proud to offer our services to maintain and enhance the beauty of The Woodlands homes.\n\nGiven The Woodlands' humid subtropical climate, we prioritize using high-quality, weather-resistant paints that can withstand the challenges of the Texas environment. Our team is skilled in preparing surfaces, applying coatings, and executing detailed finishes that protect your home from the elements and enhance its curb appeal. Whether it's refreshing your interior or revitalizing your exterior, A.D Painting & Remodeling delivers exceptional results in The Woodlands.",
+        "localContext": "The Woodlands, a master-planned community with homes built from the 1980s to the present, requires a painting contractor familiar with the diverse architectural styles and environmental considerations specific to the area.",
+        "nearbyAreas": [
+          "Spring",
+          "Conroe",
+          "Tomball"
+        ]
+      },
+      {
+        "city": "Pearland",
+        "slug": "pearland-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling proudly serves Pearland, Texas, offering comprehensive painting and remodeling solutions to homeowners in this thriving community. Pearland's suburban developments, largely established in the 1990s and 2000s, feature a variety of home styles that require a painting contractor with diverse experience. We are dedicated to providing top-quality workmanship and exceptional customer service in Pearland.\n\nWe understand the effects of the Texas climate on exterior paint and offer solutions that combat fading, cracking, and peeling. Our team uses only premium paints and materials designed to withstand the sun, humidity, and occasional storms. From meticulous surface preparation to flawless finishes, A.D Painting & Remodeling is committed to enhancing the beauty and value of your Pearland home.",
+        "localContext": "Pearland's suburban developments, primarily built in the 1990s and 2000s, present a range of home styles requiring painting expertise that caters to the unique characteristics of each property.",
+        "nearbyAreas": [
+          "Friendswood",
+          "Alvin",
+          "League City"
+        ]
+      },
+      {
+        "city": "League City",
+        "slug": "league-city-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling is pleased to offer our professional painting and remodeling services to the residents of League City, Texas. With its newer developments largely constructed in the 2000s, League City features modern homes that benefit from our expertise in contemporary painting techniques. We are committed to providing outstanding results that enhance the beauty and value of your League City home.\n\nLocated near Galveston Bay, League City homes are exposed to unique environmental challenges, including high humidity and salt air. We use specialized paints and coatings designed to withstand these conditions, protecting your home from damage and ensuring long-lasting beauty. From interior painting to exterior renovations, A.D Painting & Remodeling is your trusted partner in League City.",
+        "localContext": "League City's newer developments from the 2000s have a focus on modern home designs, and proximity to Galveston Bay necessitates the use of paints and coatings that can withstand the humid, salty air.",
+        "nearbyAreas": [
+          "Dickinson",
+          "Kemah",
+          "Webster"
+        ]
+      },
+      {
+        "city": "Missouri City",
+        "slug": "missouri-city-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling is dedicated to serving the residents of Missouri City, TX with top-quality painting and remodeling services. Missouri City features a diverse range of housing styles, from established neighborhoods to newer developments, requiring a painting contractor with broad experience. We are committed to providing excellent workmanship and customer satisfaction.\n\nWe understand the challenges posed by the Texas climate, including intense sun and humidity, and use premium paints and materials designed to withstand these conditions. Our team is skilled in preparing surfaces, applying coatings, and executing detailed finishes that protect your home from the elements and enhance its curb appeal. Whether you need interior painting, exterior painting, or comprehensive remodeling services, A.D Painting & Remodeling is your trusted partner in Missouri City.",
+        "localContext": "Missouri City presents a range of home styles, requiring painting expertise that caters to the unique characteristics of each property and considering the effects of the humid climate.",
+        "nearbyAreas": [
+          "Sugar Land",
+          "Stafford",
+          "Fresno"
+        ]
+      },
+      {
+        "city": "Friendswood",
+        "slug": "friendswood-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling is proud to bring our expert painting and remodeling services to Friendswood, Texas. Known for its well-maintained homes and family-friendly atmosphere, Friendswood requires a painting contractor that values quality and attention to detail. We are committed to enhancing the beauty and value of homes in Friendswood.\n\nOur team understands the specific challenges of painting homes in the Texas Gulf Coast region, including humidity, salt air, and the potential for severe weather. We use only high-quality paints and materials that are designed to withstand these conditions, ensuring long-lasting beauty and protection for your home. From color consultations to meticulous surface preparation, A.D Painting & Remodeling is dedicated to delivering outstanding results in Friendswood.",
+        "localContext": "Friendswood experiences the effects of the Gulf Coast climate, necessitating paints and coatings that can withstand humidity, salt air, and potential storm damage.",
+        "nearbyAreas": [
+          "Pearland",
+          "League City",
+          "Alvin"
+        ]
+      },
+      {
+        "city": "Spring",
+        "slug": "spring-tx",
+        "state": "TX",
+        "content": "A.D Painting & Remodeling is pleased to offer its comprehensive painting and remodeling services to the community of Spring, Texas. Spring boasts a mix of established neighborhoods and newer developments, each with its unique character. Whether you're in an older home or a new build, A.D Painting & Remodeling is ready to serve you.\n\nWe understand the demands of the Texas climate and use only the highest quality paints and materials designed to withstand the heat, humidity, and occasional storms. Our team is experienced in both interior and exterior painting, ensuring that your home looks its best and is protected from the elements. Choose A.D Painting & Remodeling for reliable, professional service in Spring.",
+        "localContext": "Spring, TX, with its mix of older and newer homes, requires a painting contractor familiar with diverse architectural styles and the specific environmental considerations of the area.",
+        "nearbyAreas": [
+          "The Woodlands",
+          "Tomball",
+          "Conroe"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "A.D Painting did an amazing job painting the interior of my home in The Heights. They were professional, efficient, and the quality of their work was outstanding. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "We hired A.D Painting to paint the exterior of our house in River Oaks. The crew was punctual and hardworking. There were a few minor touch-ups needed, but they were quick to address them. Overall, a good experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Maria R.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "A.D Painting repaired some significant water damage to our drywall after the freeze. They were able to seamlessly patch the holes and match the texture perfectly. You can't even tell there was ever any damage!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Cabinet Refinishing",
+        "text": "Our kitchen cabinets were looking tired and outdated. A.D Painting refinished them, and they look brand new! It was a fraction of the cost of replacing them, and we're thrilled with the results.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 4,
+        "service": "Popcorn Ceiling Removal",
+        "text": "A.D Painting removed the popcorn ceiling in our living room. It was a messy job, but they were careful to protect our furniture and clean up thoroughly afterward. The room looks so much more modern now.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Full Home Remodeling",
+        "text": "A.D Painting handled our entire home remodel, including the kitchen and bathrooms. They are extremely detail-oriented and made sure everything was done to our exact specifications. We couldn't be happier with the final result!",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Houston Painting & Remodeling | A.D",
+        "description": "Trusted Houston painting contractor. Interior, exterior, drywall, cabinets & remodeling. Free quotes!"
+      },
+      "about": {
+        "title": "About A.D Painting & Remodeling",
+        "description": "Learn about A.D Painting & Remodeling's Houston roots, values, and commitment to quality craftsmanship."
+      },
+      "services": {
+        "title": "A.D Painting & Remodeling Services",
+        "description": "Comprehensive painting and remodeling services in Houston. Interior, exterior, drywall, cabinets, & more."
+      },
+      "contact": {
+        "title": "Contact A.D Painting & Remodeling",
+        "description": "Contact A.D Painting & Remodeling for a free quote. Serving Houston and surrounding areas."
+      },
+      "reviews": {
+        "title": "A.D Painting & Remodeling Reviews",
+        "description": "Read testimonials from satisfied A.D Painting & Remodeling customers in Houston, TX."
+      },
+      "service-areas": {
+        "title": "A.D Painting Service Areas",
+        "description": "A.D Painting & Remodeling provides painting and remodeling services throughout the Houston metro area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "cabinet-refinishing": "/images/service-cabinet-refinishing.webp",
+      "popcorn-ceiling-removal": "/images/service-popcorn-ceiling-removal.webp",
+      "remodeling-services": "/images/service-remodeling-services.webp",
+      "commercial-painting": "/images/service-commercial-painting.webp"
+    },
+    "servicesResponsive": {
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-refinishing": {
+        "src": "/images/service-cabinet-refinishing.webp",
+        "srcset": "/images/service-cabinet-refinishing-400w.webp 400w, /images/service-cabinet-refinishing-800w.webp 800w, /images/service-cabinet-refinishing-1200w.webp 1200w, /images/service-cabinet-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "popcorn-ceiling-removal": {
+        "src": "/images/service-popcorn-ceiling-removal.webp",
+        "srcset": "/images/service-popcorn-ceiling-removal-400w.webp 400w, /images/service-popcorn-ceiling-removal-800w.webp 800w, /images/service-popcorn-ceiling-removal-1200w.webp 1200w, /images/service-popcorn-ceiling-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "remodeling-services": {
+        "src": "/images/service-remodeling-services.webp",
+        "srcset": "/images/service-remodeling-services-400w.webp 400w, /images/service-remodeling-services-800w.webp 800w, /images/service-remodeling-services-1200w.webp 1200w, /images/service-remodeling-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-painting": {
+        "src": "/images/service-commercial-painting.webp",
+        "srcset": "/images/service-commercial-painting-400w.webp 400w, /images/service-commercial-painting-800w.webp 800w, /images/service-commercial-painting-1200w.webp 1200w, /images/service-commercial-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
